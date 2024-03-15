@@ -1,4 +1,4 @@
-### Sentiment Analysis on Amazon Product Reviews
+# Sentiment Analysis on Amazon Product Reviews
 
 # This Jupyter notebook performs sentiment analysis on Amazon product reviews using spaCy and TextBlob. It analyzes the sentiment of customer reviews and visualises the results using word clouds.
 
