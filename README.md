@@ -6,7 +6,7 @@
 
 ### - [Introduction](#introduction)
 ### - [Installation](#installation)
-### - [Preprocessing](#Preprocessing)
+### - [Preprocessing](#preprocessing)
 ### - [Polarity](#polarity)
 ### - [Word Clouds](#word-clouds)
 ### - [Review Similarity](#review-similarity)
@@ -29,7 +29,6 @@
 ### You can install these packages using pip:
 
 #### pip install spacy textblob pandas numpy matplotlib wordcloud
-
 
 ### Additionally, you'll need to download the English language model for spaCy:
 
