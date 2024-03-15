@@ -28,15 +28,12 @@
 
 ### You can install these packages using pip:
 
-# ```
-# pip install spacy textblob pandas numpy matplotlib wordcloud
-# ```
+#### pip install spacy textblob pandas numpy matplotlib wordcloud
+
 
 ### Additionally, you'll need to download the English language model for spaCy:
 
-# ```
-# python -m spacy download en_core_web_md
-# ```
+#### python -m spacy download en_core_web_md
 
 ## Preprocessing
 
