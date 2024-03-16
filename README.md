@@ -19,7 +19,7 @@
 
 ### To run this notebook, you'll need to install the following Python packages:
 
-# - [spaCy](https://spacy.io/usage)
+# - `[spaCy](https://spacy.io/usage)`
 # - [TextBlob](https://textblob.readthedocs.io/en/dev/)
 # - [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
 # - [numpy](https://numpy.org/install/)
